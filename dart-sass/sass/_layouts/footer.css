@@ -1,0 +1,23 @@
+footer {
+  background-color: #353535;
+  padding: 25px;
+  color: white;
+}
+
+footer ul {
+  list-style-type: none;
+  color: white;
+}
+
+footer ul li {
+  padding: 5px 0 5px 0;
+}
+
+footer .fa-utensils {
+  margin-right: 12px;
+}
+
+footer .fa-hands-helping {
+  margin-right: 5px;
+}
+/*# sourceMappingURL=footer.css.map */
