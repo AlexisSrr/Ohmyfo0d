@@ -170,7 +170,7 @@ footer h4 {
   margin-bottom: 30px;
   color: white;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 footer .fa-utensils {
@@ -407,14 +407,14 @@ h1 {
 .function__choice__number {
   width: 18px;
   height: 20px;
-  padding: 2px 4px;
+  padding: 3px 4px;
   border-radius: 50%;
   background-color: #9356DC;
   color: white;
   position: absolute;
   top: 30%;
   left: -4%;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .i_fa_fa-tablet-alt {
